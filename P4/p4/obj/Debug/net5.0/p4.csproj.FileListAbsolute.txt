@@ -1,0 +1,16 @@
+E:\VS2019Project\C#\bishi\P4\p4\bin\Debug\net5.0\p4.exe
+E:\VS2019Project\C#\bishi\P4\p4\bin\Debug\net5.0\p4.deps.json
+E:\VS2019Project\C#\bishi\P4\p4\bin\Debug\net5.0\p4.runtimeconfig.json
+E:\VS2019Project\C#\bishi\P4\p4\bin\Debug\net5.0\p4.runtimeconfig.dev.json
+E:\VS2019Project\C#\bishi\P4\p4\bin\Debug\net5.0\p4.dll
+E:\VS2019Project\C#\bishi\P4\p4\bin\Debug\net5.0\ref\p4.dll
+E:\VS2019Project\C#\bishi\P4\p4\bin\Debug\net5.0\p4.pdb
+E:\VS2019Project\C#\bishi\P4\p4\obj\Debug\net5.0\p4.csproj.AssemblyReference.cache
+E:\VS2019Project\C#\bishi\P4\p4\obj\Debug\net5.0\p4.GeneratedMSBuildEditorConfig.editorconfig
+E:\VS2019Project\C#\bishi\P4\p4\obj\Debug\net5.0\p4.AssemblyInfoInputs.cache
+E:\VS2019Project\C#\bishi\P4\p4\obj\Debug\net5.0\p4.AssemblyInfo.cs
+E:\VS2019Project\C#\bishi\P4\p4\obj\Debug\net5.0\p4.csproj.CoreCompileInputs.cache
+E:\VS2019Project\C#\bishi\P4\p4\obj\Debug\net5.0\p4.dll
+E:\VS2019Project\C#\bishi\P4\p4\obj\Debug\net5.0\ref\p4.dll
+E:\VS2019Project\C#\bishi\P4\p4\obj\Debug\net5.0\p4.pdb
+E:\VS2019Project\C#\bishi\P4\p4\obj\Debug\net5.0\p4.genruntimeconfig.cache

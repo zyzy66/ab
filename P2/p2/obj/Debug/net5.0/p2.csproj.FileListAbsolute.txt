@@ -1,0 +1,16 @@
+E:\VS2019Project\C#\bishi\P2\p2\bin\Debug\net5.0\p2.exe
+E:\VS2019Project\C#\bishi\P2\p2\bin\Debug\net5.0\p2.deps.json
+E:\VS2019Project\C#\bishi\P2\p2\bin\Debug\net5.0\p2.runtimeconfig.json
+E:\VS2019Project\C#\bishi\P2\p2\bin\Debug\net5.0\p2.runtimeconfig.dev.json
+E:\VS2019Project\C#\bishi\P2\p2\bin\Debug\net5.0\p2.dll
+E:\VS2019Project\C#\bishi\P2\p2\bin\Debug\net5.0\ref\p2.dll
+E:\VS2019Project\C#\bishi\P2\p2\bin\Debug\net5.0\p2.pdb
+E:\VS2019Project\C#\bishi\P2\p2\obj\Debug\net5.0\p2.csproj.AssemblyReference.cache
+E:\VS2019Project\C#\bishi\P2\p2\obj\Debug\net5.0\p2.GeneratedMSBuildEditorConfig.editorconfig
+E:\VS2019Project\C#\bishi\P2\p2\obj\Debug\net5.0\p2.AssemblyInfoInputs.cache
+E:\VS2019Project\C#\bishi\P2\p2\obj\Debug\net5.0\p2.AssemblyInfo.cs
+E:\VS2019Project\C#\bishi\P2\p2\obj\Debug\net5.0\p2.csproj.CoreCompileInputs.cache
+E:\VS2019Project\C#\bishi\P2\p2\obj\Debug\net5.0\p2.dll
+E:\VS2019Project\C#\bishi\P2\p2\obj\Debug\net5.0\ref\p2.dll
+E:\VS2019Project\C#\bishi\P2\p2\obj\Debug\net5.0\p2.pdb
+E:\VS2019Project\C#\bishi\P2\p2\obj\Debug\net5.0\p2.genruntimeconfig.cache
